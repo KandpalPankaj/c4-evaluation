@@ -1,0 +1,10 @@
+#container{
+    display: flex;
+}
+#sidebar{
+    flex: 2;
+    border: 1px solid;
+}
+#main{
+    flex: 8;
+}
